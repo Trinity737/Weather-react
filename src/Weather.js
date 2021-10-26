@@ -26,7 +26,7 @@ export default function Weather() {
             </div>
           </form>
           <div className="overview">
-            <h1></h1>
+            <h1>Toronto</h1>
             <ul>
               <li>
                 Last Updated: <div>Monday 25, 2021</div>
@@ -59,7 +59,7 @@ export default function Weather() {
           <small>
             <a href="https://github.com/Trinity737/weather-react">
               Open-Sourced Code
-            </a>
+            </a>{" "}
             by Cheavon Pottinger
           </small>
         </div>

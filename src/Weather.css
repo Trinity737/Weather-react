@@ -2,7 +2,7 @@ body {
   font-family: arial, sans-serif;
 }
 h1 {
-  color: #000;
+  color: rgb(226, 214, 214);
   font-size: 24px;
   margin: 0;
   font-weight: 100;
@@ -18,7 +18,7 @@ li {
   position: relative;
   top: 15px;
   left: 15px;
-  color: rgb(135, 135, 135);
+  color: rgb(185, 179, 179);
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
@@ -61,7 +61,7 @@ li {
   position: relative;
   left: 70px;
   bottom: 80px;
-  color: rgb(33, 33, 33);
+  color: rgb(145, 139, 139);
   font-size: 64px;
   font-weight: 400;
 }
@@ -71,14 +71,14 @@ li {
   left: 65px;
   bottom: 115px;
   font-size: 16px;
-  color: #000;
+  color: rgb(145, 140, 140);
   font-weight: bold;
 }
 
 .weather-forecast {
   margin: 20px;
   text-align: center;
-  color: #000;
+  color: rgb(145, 140, 140);
 }
 
 .weather-forecast-date {

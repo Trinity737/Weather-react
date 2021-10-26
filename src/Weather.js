@@ -64,7 +64,6 @@ export default function Weather() {
           </small>
         </div>
       </div>
-      <script src="src/script.js"></script>
     </div>
   );
 }
